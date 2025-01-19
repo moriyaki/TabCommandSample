@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabCommandSample", "TabCommandSample\TabCommandSample.csproj", "{A936CBA5-07C0-40D2-9DAA-6D0F786D3095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleA", "ModuleA\ModuleA.csproj", "{2CAB38ED-3285-4EA5-99B6-D21531F9A835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A936CBA5-07C0-40D2-9DAA-6D0F786D3095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A936CBA5-07C0-40D2-9DAA-6D0F786D3095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A936CBA5-07C0-40D2-9DAA-6D0F786D3095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A936CBA5-07C0-40D2-9DAA-6D0F786D3095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAB38ED-3285-4EA5-99B6-D21531F9A835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAB38ED-3285-4EA5-99B6-D21531F9A835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAB38ED-3285-4EA5-99B6-D21531F9A835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAB38ED-3285-4EA5-99B6-D21531F9A835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
